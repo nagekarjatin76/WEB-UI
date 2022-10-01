@@ -1,0 +1,89 @@
+*{
+    box-sizing: border-box;
+}
+
+#div1 {
+    width: 100%;
+    height: 80px;
+    background-color: rgba(124, 171, 193, 0.781);
+    color: rgba(26, 20, 10, 0.889);
+}
+li {
+    float: left;
+    display: inline;
+    margin: 10px;
+    font-size: 30px ;
+    
+}
+li a{
+    text-decoration: none;
+    color: rgba(122, 126, 55, 0.904);
+}
+input{
+    border-radius: 10px;
+    margin-left: 900px;
+    
+}
+
+#div2 {
+    width: 15%;
+    height: 250px;
+    background-color: rgba(200, 200, 51, 0.873);
+    float: left;
+    
+    
+    box-sizing: border-box;
+}
+#div3 {
+    width: 70%;
+    height: 250px;
+    background-color: rgba(147, 74, 74, 0.826);
+    float: left;
+
+}
+#div4 {
+    width: 15%;
+    height: 250px;
+    background-color: rgba(84, 135, 65, 0.836);
+    float: left;
+    
+}
+#div5{
+    width: 70%;
+    height: 230px;
+    background-color: rgba(62, 63, 44, 0.511);
+    float: left;
+    
+}
+#div6{
+    width: 30%;
+    height: 230px;
+    background-color: rgba(246, 212, 148, 0.815);
+    float: left;
+    
+}
+#div7{
+    width: 34%;
+    height: 150px;
+    background-color: rgba(113, 71, 71, 0.885);
+    float: left;
+}
+#div8{
+    width: 33%;
+    height: 150px;
+    background-color: rgba(73, 158, 171, 0.804);
+    float: left;
+}
+#div9{
+    width: 33%;
+    height: 150px;
+    background-color: rgba(196, 158, 86, 0.905);
+    float: left;
+}
+#div10{
+    width: 100%;
+    height: 70px;
+    background-color: rgba(81, 155, 185, 0.892);
+    float: left;
+}
+
